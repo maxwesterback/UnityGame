@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 29b6a663d6d96474da68b697fb40c1a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5451572821236841517
+    second: prince050220_0
+  - first:
+      213: -5503047000076469060
+    second: prince050220_1
+  - first:
+      213: 4563980427507870616
+    second: prince050220_2
+  - first:
+      213: 5303544413655727878
+    second: prince050220_3
+  - first:
+      213: 8870483792575493612
+    second: prince050220_4
+  - first:
+      213: 2118068604589800579
+    second: prince050220_5
+  - first:
+      213: 5500235738830399824
+    second: prince050220_6
+  - first:
+      213: 4785212803763247310
+    second: prince050220_7
+  - first:
+      213: 5767235307082484591
+    second: prince050220_8
+  - first:
+      213: 3460359691146509775
+    second: prince050220_9
+  - first:
+      213: 6273137884082754861
+    second: prince050220_10
+  - first:
+      213: 8590862559276297347
+    second: prince050220_11
+  - first:
+      213: -4320097227177183868
+    second: prince050220_12
+  - first:
+      213: 6550107766280771317
+    second: prince050220_13
+  - first:
+      213: 2666440644962359807
+    second: prince050220_14
+  - first:
+      213: 7811483915758160560
+    second: prince050220_15
+  - first:
+      213: 7021019333099667218
+    second: prince050220_16
+  - first:
+      213: 5503960480643574712
+    second: prince050220_17
+  - first:
+      213: 3798817486404638295
+    second: prince050220_18
+  - first:
+      213: 1776687124374620989
+    second: prince050220_19
+  - first:
+      213: -7516961868851489169
+    second: prince050220_20
+  - first:
+      213: -152654500180529106
+    second: prince050220_21
+  - first:
+      213: 663656919057691987
+    second: prince050220_22
+  - first:
+      213: 4796594680223174707
+    second: prince050220_23
+  - first:
+      213: -3066485616089985898
+    second: prince050220_24
+  - first:
+      213: -4260876873377858076
+    second: prince050220_25
+  - first:
+      213: -7669198091210147366
+    second: prince050220_26
+  - first:
+      213: -121820436077110307
+    second: prince050220_27
+  - first:
+      213: -3511767165777098151
+    second: prince050220_28
+  - first:
+      213: -3827736334954287347
+    second: prince050220_29
+  - first:
+      213: -4063550963881089192
+    second: prince050220_30
+  - first:
+      213: -349286363347741299
+    second: prince050220_31
+  - first:
+      213: -8641904303092972682
+    second: prince050220_32
+  - first:
+      213: 3789336573701803734
+    second: prince050220_33
+  - first:
+      213: 5569749867563311647
+    second: prince050220_34
+  - first:
+      213: -2271839477627893432
+    second: prince050220_35
+  - first:
+      213: 6984446179493480193
+    second: prince050220_36
+  - first:
+      213: 5112799212292396436
+    second: prince050220_37
+  - first:
+      213: 3071378933060678859
+    second: prince050220_38
+  - first:
+      213: -7244352726205964926
+    second: prince050220_39
+  - first:
+      213: 2958856697733521916
+    second: prince050220_40
+  - first:
+      213: -33392918377369542
+    second: prince050220_41
+  - first:
+      213: -5164167597067888494
+    second: prince050220_42
+  - first:
+      213: 2227060228999629047
+    second: prince050220_43
+  - first:
+      213: -4536365227361734488
+    second: prince050220_44
+  - first:
+      213: 1341067712297475198
+    second: prince050220_45
+  - first:
+      213: -1288205471681524292
+    second: prince050220_46
+  - first:
+      213: 3726143080855921688
+    second: prince050220_47
+  - first:
+      213: -8504837578963826113
+    second: prince050220_48
+  - first:
+      213: 9115681322185912420
+    second: prince050220_49
+  - first:
+      213: 4356220491509680813
+    second: prince050220_50
+  - first:
+      213: 994083113186367415
+    second: prince050220_51
+  - first:
+      213: 1342861944458200315
+    second: prince050220_52
+  - first:
+      213: 5337863568158293563
+    second: prince050220_53
+  - first:
+      213: 3877399078290033374
+    second: prince050220_54
+  - first:
+      213: 7406243867627064150
+    second: prince050220_55
+  - first:
+      213: -3932403780877486688
+    second: prince050220_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prince050220_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1792
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488632f39d022ee49bb385bfe2fd9e4b
+      internalID: 5451572821236841517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1794
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63980a4b95b5d7f44a5c0b0f643879f4
+      internalID: -5503047000076469060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1792
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc736b70d552e43a9dcb63e820da0d
+      internalID: 4563980427507870616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1792
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23849f86431c945ad251503fb3a7ce
+      internalID: 5303544413655727878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1664
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825771b9c11459479d60a96205b232d
+      internalID: 8870483792575493612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1664
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bbefc7c76c82d4a9f11e09d4f80a7e
+      internalID: 2118068604589800579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1666
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c704466202864ba197552754af16d
+      internalID: 5500235738830399824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1664
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35331f7d9be6c489b64f1f7856290b
+      internalID: 4785212803763247310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1536
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd3d281e60d624b989f731991f2e0c
+      internalID: 5767235307082484591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1536
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89753a342e9e4ec479f236e47f2aaf67
+      internalID: 3460359691146509775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1536
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60fba1e6ee10f45a7e7f644d0277dd
+      internalID: 6273137884082754861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1536
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf34d53d5226fd4bb4fc7f3ad45fdbd
+      internalID: 8590862559276297347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1416
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426b100ae0ea6f45972b89e7fcd409f
+      internalID: -4320097227177183868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1408
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3fe629c69b834796d2ca675b36234
+      internalID: 6550107766280771317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1410
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e584b9bc3ea5ed4b899424b2cbe764f
+      internalID: 2666440644962359807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1410
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d033de1558e739b499b08da3a77a36c4
+      internalID: 7811483915758160560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1282
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc81fc70d9e746478a92292d95db8ef
+      internalID: 7021019333099667218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1280
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac150ce8f3960d4989ae73e565b6c0e
+      internalID: 5503960480643574712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1288
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f33cc378bdad3459175b26b065c45d
+      internalID: 3798817486404638295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1280
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0cf96e8cc48c84e9962e4d32c1ab9c
+      internalID: 1776687124374620989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1154
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de26bcdf6476740899f700eb169a32
+      internalID: -7516961868851489169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899f2e271a6e80408d2d8adc8ebd2aa
+      internalID: -152654500180529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1154
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc6e6c4b703b6438442fff486691ca
+      internalID: 663656919057691987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1154
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884f9ba16a6b3542b7411a5a459b556
+      internalID: 4796594680223174707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1024
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dab474837a0eb468e2248acf798079
+      internalID: -3066485616089985898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1024
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7b6bfdc0371e4cb408adae065ff87
+      internalID: -4260876873377858076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1654be693ff3f42a3cef6b48c3e44c
+      internalID: -7669198091210147366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1026
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38306ea1850a94b94a7d5fb95bb3cd
+      internalID: -121820436077110307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 896
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf24813c360cc145ac6fe8532fff593
+      internalID: -3511767165777098151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 896
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9f9aedcf914f84fb587c0915e4b72a
+      internalID: -3827736334954287347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 896
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dbd180341e1d34188882ff6ed30c68
+      internalID: -4063550963881089192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 896
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9dcdf52282ea488ae093f2069d8a9
+      internalID: -349286363347741299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 768
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2465e51403cbc8488d44de189d75164
+      internalID: -8641904303092972682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 768
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929a25cf7c3c454aaa65992e96f2f27
+      internalID: 3789336573701803734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 768
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142222d4b00bed84faab678c8d72510a
+      internalID: 5569749867563311647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 770
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8fbfad3034364f9f8e981a4b037f6
+      internalID: -2271839477627893432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 640
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d115abc7d913ec4a9e42ec4b3f926b3
+      internalID: 6984446179493480193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 640
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a76b660b3d114a8631f22f0ce4f03
+      internalID: 5112799212292396436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 640
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9419b92101e7ae4ca7a28c7ba2bbf4a
+      internalID: 3071378933060678859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 640
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7be4e93e6504c49af8251ebfc312a0
+      internalID: -7244352726205964926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 512
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407d9e773e53f74eb7a4d1a019576ae
+      internalID: 2958856697733521916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 512
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d76d956388004c44a1490175be2d877
+      internalID: -33392918377369542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 512
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb12ec8b78d68e4a9f3ab38870ff989
+      internalID: -5164167597067888494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 512
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4db8240fd989c41a7fc6707751e7dc
+      internalID: 2227060228999629047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 384
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79ef30554e25e46982d4fc7569c30f
+      internalID: -4536365227361734488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 384
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de65c443d4026e408f8d0806aaefe8c
+      internalID: 1341067712297475198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 384
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe126aeb6ee51004bbdab23e30dad032
+      internalID: -1288205471681524292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30508ec39ec5e834289e6fe6755acc65
+      internalID: 3726143080855921688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1260899260ac141b1a3641e64147fe
+      internalID: -8504837578963826113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 256
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f221d4d346ff42a777009cffc2c62
+      internalID: 9115681322185912420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce24bb9ec09cd4788017762f6812b6
+      internalID: 4356220491509680813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d68d8798d950458e38e711a19c9c9
+      internalID: 994083113186367415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda04ae8bc100c4298dcf19b73fb011
+      internalID: 1342861944458200315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91029af0b13a142b04c3fcf3751919
+      internalID: 5337863568158293563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 131
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e816933fe405488bfd56d81e7f0a6
+      internalID: 3877399078290033374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 129
+        width: 106
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a845ab1d413db7e4b8017315f3c32989
+      internalID: 7406243867627064150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince050220_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444c714c9bdbe549b3b65b4810ad2f6
+      internalID: -3932403780877486688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

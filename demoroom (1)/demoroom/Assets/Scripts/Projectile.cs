@@ -1,0 +1,53 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Projectile : MonoBehaviour
+{
+    [Header("Movement Stuff")]
+    public float moveSpeed;
+    public Vector2 directionToMove;
+
+    [Header("Lifetime")]
+    public float lifetime;
+    private float lifetimeSeconds;
+    public Rigidbody2D myRigidbody;
+    private Vector2 origin;
+    // Start is called before the first frame update
+    void Start()
+    {
+        myRigidbody = GetComponent<Rigidbody2D>();
+        lifetimeSeconds = lifetime;
+
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        lifetimeSeconds -= Time.deltaTime;
+        if (lifetimeSeconds <= 0)
+        {
+            Destroy(this.gameObject);
+        }
+    }
+
+    public void Launch(Vector2 initialVel)
+    {
+        origin = initialVel;
+        myRigidbody.velocity = initialVel * moveSpeed;
+    }
+
+    public void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("shield"))
+        {
+            other.transform.parent.GetComponent<IsometricPlayerMovement>().StartCoroutine("ChangeCanFire");
+        }
+        
+     
+            Destroy(this.gameObject);
+
+        
+    }
+
+}

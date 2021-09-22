@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 0723cac4def19aa4a9a1dad642a0f102
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2880821822481864599
+    second: princesheet2_0
+  - first:
+      213: 5178696184068920350
+    second: princesheet2_1
+  - first:
+      213: -4082184509929823336
+    second: princesheet2_2
+  - first:
+      213: 6375386910701343540
+    second: princesheet2_3
+  - first:
+      213: -8761038992853320919
+    second: princesheet2_4
+  - first:
+      213: -8948398360863131502
+    second: princesheet2_5
+  - first:
+      213: -3715139624398729814
+    second: princesheet2_6
+  - first:
+      213: -6143503738376082581
+    second: princesheet2_7
+  - first:
+      213: -2716866761017425454
+    second: princesheet2_8
+  - first:
+      213: 6095561055238385717
+    second: princesheet2_9
+  - first:
+      213: -8951553056415308640
+    second: princesheet2_10
+  - first:
+      213: 5188208219936428851
+    second: princesheet2_11
+  - first:
+      213: -540413652721791882
+    second: princesheet2_12
+  - first:
+      213: -3329746359036048700
+    second: princesheet2_13
+  - first:
+      213: -121987892274152961
+    second: princesheet2_14
+  - first:
+      213: -6145485073632130806
+    second: princesheet2_15
+  - first:
+      213: 5484518974396523813
+    second: princesheet2_16
+  - first:
+      213: -2828924994939153917
+    second: princesheet2_17
+  - first:
+      213: -6536053383612226815
+    second: princesheet2_18
+  - first:
+      213: -2498364894907280735
+    second: princesheet2_19
+  - first:
+      213: 5109085133398872405
+    second: princesheet2_20
+  - first:
+      213: 8755670045452670767
+    second: princesheet2_21
+  - first:
+      213: 1445742222933271009
+    second: princesheet2_22
+  - first:
+      213: 7591231041143457066
+    second: princesheet2_23
+  - first:
+      213: 6536748509795005226
+    second: princesheet2_24
+  - first:
+      213: -4244734478375889857
+    second: princesheet2_25
+  - first:
+      213: -3112323017485483409
+    second: princesheet2_26
+  - first:
+      213: 3860851689334083695
+    second: princesheet2_27
+  - first:
+      213: -8117523949274060458
+    second: princesheet2_28
+  - first:
+      213: 3995332027475184205
+    second: princesheet2_29
+  - first:
+      213: 1561888531544866079
+    second: princesheet2_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: princesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 896
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ccf609ad74da40b8f68ce5f5f734f
+      internalID: -2880821822481864599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 898
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beaef31ec74604408b35b6b197dd254
+      internalID: 5178696184068920350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 896
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a35dd746d139247a66147f879721f4
+      internalID: -4082184509929823336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 896
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7635e40619f3844bb11668dbb163269
+      internalID: 6375386910701343540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 768
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dab8785cee06f04e83fb11bf4de3489
+      internalID: -8761038992853320919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 768
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d3a8a1288f1745ab5df62cab51f44
+      internalID: -8948398360863131502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 770
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b6fef896338bd4dae63d42599b94d1
+      internalID: -3715139624398729814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 768
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e56a5659dd9a4f9ff76d3ef186ad9
+      internalID: -6143503738376082581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 640
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8940833adf730f4bb7f60e113c82357
+      internalID: -2716866761017425454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 640
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a6e19acaa09624fbad9a6c3fd2f512
+      internalID: 6095561055238385717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 640
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c221b7a78e2611438062bce2d0f8480
+      internalID: -8951553056415308640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 640
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee58f77a94c43449775100b239f500
+      internalID: 5188208219936428851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 520
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b45aea78e504c44b2c4479fc61a950
+      internalID: -540413652721791882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 512
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e09dd70f9f60a4d9a961417bc34bc7
+      internalID: -3329746359036048700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 514
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b717b82d4940684f9a9031ac0414cab
+      internalID: -121987892274152961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 514
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece7881cd3e0fd438e689b02f8eb8dc
+      internalID: -6145485073632130806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 386
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73701be4b8c58ab4f8f6af555a4cc8ba
+      internalID: 5484518974396523813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d5fccc02fc304458228589b5e0baf4
+      internalID: -2828924994939153917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 392
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b78daaa79886d45bb7d5d6e013d622
+      internalID: -6536053383612226815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 384
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27577ddfe75424eb206bbd917f4082
+      internalID: -2498364894907280735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 258
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033f71d4079b3041b756ecec0e17e50
+      internalID: 5109085133398872405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46038a17a76e6744e92d4503f2b8c33e
+      internalID: 8755670045452670767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 258
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371683be1dbae774cb208001cff805a6
+      internalID: 1445742222933271009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 258
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d972e8f2f99254c91387f62c6e73f5
+      internalID: 7591231041143457066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ce2e661d0db244a70c23e76723c2d
+      internalID: 6536748509795005226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a55060634a3dd43acecf3279bce509
+      internalID: -4244734478375889857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 128
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b04c323fcb4ec49ad0f8e9f72c44ac
+      internalID: -3112323017485483409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 130
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03959f20921d041b3f89d4a9dfc34e
+      internalID: 3860851689334083695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c534fc9425fe84590f4b3be1ee1579
+      internalID: -8117523949274060458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d25400ea852584ab1939fe765a74b9
+      internalID: 3995332027475184205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: princesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03811ded08e0844b09de44ad9a0608
+      internalID: 1561888531544866079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

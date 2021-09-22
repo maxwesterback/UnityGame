@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: db34db218927ad14c82cae01cf9894b1
+  - enabled: 1
+    path: Assets/Scenes/demoroom.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/bossroom.unity
+    guid: 53f8f3b5b0ccc1847a68f72b91c898fc
+  m_configObjects: {}
